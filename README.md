@@ -1,7 +1,7 @@
 <div align="center">
   <b>Duomage</b>
 
-A minimal dark theme for Visual Studio Code
+_A minimal dark theme for Visual Studio Code_
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
