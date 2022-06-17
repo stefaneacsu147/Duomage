@@ -1,5 +1,5 @@
 <div align="center">
-# Duomage
+**Duomage**
 
 A minimal dark theme for Visual Studio Code
 
